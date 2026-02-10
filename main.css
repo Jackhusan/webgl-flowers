@@ -51,3 +51,11 @@ canvas {
         font-size: 45px
     }
 }
+
+.subtitle {
+  margin-top: 14px;
+  font-size: 11px;
+  letter-spacing: 0.35em;
+  opacity: 0.45;
+  font-weight: 300;
+}
